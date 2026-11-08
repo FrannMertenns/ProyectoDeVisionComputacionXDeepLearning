@@ -1,0 +1,5 @@
+RESULTADOS K-MEANS - TECNOFORMS
+
+Cantidad de grupos: 10
+Cantidad de imagenes: 4800
+Adjusted Rand Index: 0.3408
